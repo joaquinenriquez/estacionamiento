@@ -1,0 +1,35 @@
+Enunciado:
+
+Se debe crear las siguientes clases con sus atributos y métodos:
+1. Clase vehículo:
+  atributos privados: pantente, horaIngreso
+  Constructor que recibe los dos parámetros
+  Método estacionar que devuelve true/false
+  getPatente que devuelve la patente
+  sacar que recibe patente y devuelve importe
+  traerTodos: trae el listado de vehículos estacionados
+  guardarTodos: recibe un listado de vehículos como parámetros y los guarda. Devuelve un true/false
+  
+2. Clase facturado:
+  atributos privados: vehículo, horaSalida, importe.
+  Constructor que recibe un vehículo y una hora de salida.
+  traerTodos: un método que devuelve un listado de facturado.
+  GuardarTodos: recibe un listado de facturado y devuelve true.
+  
+  
+  3.Clase UITabla
+  Metodos:
+    CrearTablaEstacionados
+    CrearTablaFacturados
+  
+  En gestion php le pasamos un solo parametro que es pantente.
+  Detectar por que metodo estan dando de alta.
+  
+  
+  
+  
+  
+  
+  
+  
+  
